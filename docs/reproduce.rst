@@ -13,7 +13,7 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/ahasha/milton_maps
+    $ git clone https://github.com/ahasha/milton_maps.git
 
 Or download the `tarball`_:
 
