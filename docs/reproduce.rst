@@ -27,7 +27,7 @@ Install Software Dependencies
 The python package environment for this analysis is managed using
 `conda <https://conda.io/projects/conda/en/latest/index.html>`_.
 If not already installed on your system, I recommend installing the Anaconda python distribution
-as detailed `here <https://conda.io/projects/conda/en/latest/user-guide/install/index.html>`_.  For a
+as detailed `here <https://conda.io/projects/conda/en/latest/user-guide/install/index.html>`_. If you use the `brew` package manager, follow `these instructions <https://gist.github.com/ryanorsinger/7d89ad58901b5590ec3e1f23d7b9f887>`_. For a
 quicker startup requiring less disk space, you may prefer to install the Miniconda distribution.
 
 I strongly recommend installing `mamba`, which is a C++ port of the `conda` package manager.
